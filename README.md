@@ -2,7 +2,7 @@
 
 Predicting which US public companies (NYSE and NASDAQ, 1999-2018) are at risk of filing for bankruptcy in the following year, based on their financial statements.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://us-company-bankruptcy-prediction-fhyjxszsuujwms3rux7pqt.streamlit.app
 
 ## Key Findings
 
