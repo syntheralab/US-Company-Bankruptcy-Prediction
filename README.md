@@ -48,11 +48,11 @@ Based on permutation importance on the validation set (model trained on 1999-201
 ## Project Structure
 
 ```
-├── app.py              # Streamlit dashboard
-├── bangkrupt.ipynb     # Analysis and modeling
-├── scores.csv          # Test set risk scores
-├── metrics.csv         # Model comparison
-├── requirements.txt    # Dashboard dependencies
+├── app.py                       # Streamlit dashboard
+├── Bankruptcy Prediction.ipynb  # Analysis and modeling     
+├── scores.csv                   # Test set risk scores
+├── metrics.csv                  # Model comparison
+├── requirements.txt             # Dashboard dependencies
 └── README.md
 ```
 
